@@ -40,3 +40,7 @@ a {
     color-scheme: dark;
   }
 }
+
+.spacer {
+  height: 30px;
+}
